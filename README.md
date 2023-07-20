@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Cronos666
-- 👀 I’m interested in Metal/Military/Astronomy/Games/Linux
-<!---
-Cronos666/Cronos666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ _    _      _                            _                                             __ _ _      
+| |  | |    | |                          | |                                           / _(_) |     
+| |  | | ___| | ___ ___  _ __ ___   ___  | |_ ___    _ __ ___  _   _   _ __  _ __ ___ | |_ _| | ___ 
+| |/\| |/ _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \  | '_ ` _ \| | | | | '_ \| '__/ _ \|  _| | |/ _ \
+\  /\  /  __/ | (_| (_) | | | | | |  __/ | || (_) | | | | | | | |_| | | |_) | | | (_) | | | | |  __/
+ \/  \/ \___|_|\___\___/|_| |_| |_|\___|  \__\___/  |_| |_| |_|\__, | | .__/|_|  \___/|_| |_|_|\___|
+                                                                __/ | | |                           
+                                                               |___/  |_|                           
